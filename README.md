@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game using ReactJS (Deployed Branch)
+# Tic-Tac-Toe Game using ReactJS
 
 Hosted link : https://aswanthabam.github.io/Tic-Tac-Toe
 
